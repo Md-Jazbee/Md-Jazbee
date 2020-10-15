@@ -1,0 +1,81 @@
+{
+  "_from": "@lekoarts/gatsby-theme-cara@^1.2.10",
+  "_id": "@lekoarts/gatsby-theme-cara@1.2.10",
+  "_inBundle": false,
+  "_integrity": "sha512-ZfXSHvWYt3hlUiLfRATUG3f3kg+ZFu01T3WMbq3T/byKQiMiNaw9tjh0g2wl+iLh921SuPCh9Y1FceI66zy2Cw==",
+  "_location": "/@lekoarts/gatsby-theme-cara",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@lekoarts/gatsby-theme-cara@^1.2.10",
+    "name": "@lekoarts/gatsby-theme-cara",
+    "escapedName": "@lekoarts%2fgatsby-theme-cara",
+    "scope": "@lekoarts",
+    "rawSpec": "^1.2.10",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.10"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@lekoarts/gatsby-theme-cara/-/gatsby-theme-cara-1.2.10.tgz",
+  "_shasum": "7f60090105aa400bb2f743342f7217a25b1e5e0f",
+  "_spec": "@lekoarts/gatsby-theme-cara@^1.2.10",
+  "_where": "/home/jazbee/project/gatsby-starter-portfolio-cara",
+  "author": {
+    "name": "LekoArts",
+    "email": "hello@lekoarts.de"
+  },
+  "bugs": {
+    "url": "https://github.com/LekoArts/gatsby-themes/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@emotion/styled": "^10.0.27",
+    "@mdx-js/mdx": "^1.6.6",
+    "@theme-ui/presets": "^0.3.0",
+    "gatsby-plugin-emotion": "^4.3.10",
+    "gatsby-plugin-mdx": "^1.2.25",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-theme-ui": "^0.3.0",
+    "gatsby-plugin-typescript": "^2.4.14",
+    "gatsby-source-filesystem": "^2.3.19",
+    "react-helmet": "^6.1.0",
+    "react-spring": "^8.0.27",
+    "theme-ui": "^0.3.1"
+  },
+  "deprecated": false,
+  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "gitHead": "736400afa4c3cc26e910212bc3bf3c5d731c25d2",
+  "homepage": "https://themes.lekoarts.de",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "lekoarts"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@lekoarts/gatsby-theme-cara",
+  "peerDependencies": {
+    "gatsby": "^2.20.36",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LekoArts/gatsby-themes.git",
+    "directory": "themes/gatsby-theme-cara"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "start": "gatsby develop"
+  },
+  "version": "1.2.10"
+}
